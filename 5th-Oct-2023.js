@@ -43,5 +43,5 @@ a=="Mark" ? console.log("valid_Name"): console.log("Invalid_Name");
 
 //Task-7//
 var a=+prompt("Enter the value:")
-var b=+prompt("Enter the value:")
+var b=+prompt("Enter the value:.")
 a+b===50 ? console.log(a+b+50):console.log(a+b-50)

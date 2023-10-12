@@ -43,8 +43,8 @@ if(e==f){
 console.log("Paid")
 }
 else if(e>f){
-console.log(e-f) 
+console.log(e-f+ "Rupees of amount to be paid") 
 }
 else if(e<f){
-console.log(f-e)
+console.log(f-e+ "Rupees of amount Remaining")
 }

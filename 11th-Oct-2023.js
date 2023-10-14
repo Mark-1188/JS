@@ -9,9 +9,9 @@ else{console.log("It cannot form a Square")}
 
 // Arthematic Progressions
 //Find out Arthematic Progression or Not
-let a=+prompt("Enter the value of A")
-let b=+prompt("Enter the value of B")
-let c=+prompt("Enter the value of C")
+var a=+prompt("Enter the value of A")
+var b=+prompt("Enter the value of B")
+var c=+prompt("Enter the value of C")
 if(c-b==b-a){
 console.log("It is an Arithematic Progression")
 }

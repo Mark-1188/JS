@@ -1,6 +1,6 @@
 //Task-1//
 var a=prompt("Enter your Mobile Number")
-a==9704474272 ? console.log();("Valid Number"):console.log();("Invalid Number")
+a==9704474272 ? console.log("Valid Number"):console.log("Invalid Number")
 
 //Task-2//
 var a=prompt("Enter the value of A");
